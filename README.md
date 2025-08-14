@@ -6,8 +6,8 @@
 
 2.authorization-server的版本为1.1.0
 
-3.spring cloud 版本为2021.0.9
+3.spring cloud 版本为2022.0.5
 
-4.spring cloud alibaba 版本为 2021.0.6.0
+4.spring cloud alibaba 版本为2022.0.0.0
 
 # 1.auth-server
