@@ -55,12 +55,6 @@
             <groupId>org.webjars</groupId>
             <artifactId>bootstrap</artifactId>
         </dependency>
-<!--        &lt;!&ndash; Spring Security CAS + Jackson 支持 &ndash;&gt;-->
-<!--        <dependency>-->
-<!--            <groupId>org.springframework.security</groupId>-->
-<!--            <artifactId>spring-security-cas</artifactId>-->
-<!--             &lt;!&ndash; 需与 spring-security-core 版本一致 &ndash;&gt;-->
-<!--        </dependency>-->
     </dependencies>
 
 </project>

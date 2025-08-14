@@ -6,6 +6,3 @@ spring:
     password: dsk806888
 server:
   port: 9999
-logging:
-  level:
-    org.springframework.security: Trace
